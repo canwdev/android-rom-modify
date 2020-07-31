@@ -2,6 +2,8 @@
 
 > Android ROM 工具箱，仅限在 Linux 下使用。
 
+![preview](./docs/preview.png)
+
 ## 功能特性 · Feature
 
 - 转换 system.new.dat 为 system.img 
